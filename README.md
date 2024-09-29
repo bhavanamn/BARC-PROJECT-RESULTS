@@ -6,7 +6,8 @@
 GUI :
 
 
-<img width="315" alt="image" src="https://github.com/user-attachments/assets/fff29d94-07bf-4be1-a221-77d50be92260">
+![img 4](https://github.com/user-attachments/assets/ca28d651-c4e9-4efa-bf57-4b1dcce1ca98)
+
 
 
 <img width="313" alt="image" src="https://github.com/user-attachments/assets/399c6f71-0a8c-4c34-8001-ee68e1fe5c96">
